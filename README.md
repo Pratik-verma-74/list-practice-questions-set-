@@ -1,10 +1,7 @@
 # list-practice-questions-set-
 list:- a mutable collections of items differennt using square bracket [] . list can store different data types
 
-Sure Pratik ji! 🙌
-Yahan Python ki **list** ke baare mein saare **important facts**, **uses**, aur **real-life reasons** diye gaye hain ― aapki preparation ke liye **easy language** mein. 🧠✅
 
----
 
 ## ✅ **What is a List in Python?**
 
@@ -92,6 +89,4 @@ my_list = [10, "hello", 3.14, True]
 
 ---
 
-### 👉 Want Practice Questions Based on List?
 
-I can give 15+ questions covering all methods and tricks — let me know if you want!
